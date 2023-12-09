@@ -3,7 +3,7 @@
 ## Aluno:
 Henrique França Carvalho Soares
 
-[LINK PARA O CODIGO]()
+[LINK PARA O CODIGO](https://github.com/HenriqueSoares28/LISTA-3-EXTRA-IA)
 
 #### Introdução
 O objetivo deste projeto era desenvolver um modelo de aprendizado de máquina para classificar textos, determinando se estes abordam o tema "grãos" ou não, utilizando os dados disponíveis nos arquivos CSV "ReutersGrain-train.csv" e "ReutersGrain-test.csv".
@@ -35,4 +35,4 @@ O objetivo deste projeto era desenvolver um modelo de aprendizado de máquina pa
 O principal problema encontrado foi a inconsistência na formatação dos arquivos CSV. As linhas dos arquivos não seguiam um padrão uniforme de delimitadores ou número de campos, o que levou a erros de tokenização e dificuldades na leitura e limpeza dos dados. Este problema foi exacerbado pelo fato de que as técnicas padrão de leitura de CSV não conseguiram lidar eficazmente com essas inconsistências, resultando em perda de dados significativa durante as tentativas de limpeza.
 
 #### Conclusão
-A qualidade e a consistência dos dados são cruciais para qualquer projeto de aprendizado de máquina. Neste caso, as inconsistências nos dados apresentaram desafios significativos, impedindo a construção de um modelo de classificação eficaz. Recomenda-se uma inspeção manual dos dados ou a consulta à fonte dos dados para uma melhor compreensão da estrutura e formato esperados, permitindo uma abordagem mais informada para a limpeza e preparação dos dados. Alternativamente, a utilização de um conjunto de dados diferente, adequadamente formatado, pode ser necessária para prosseguir com a tarefa de classificação de texto.
+As inconsistências nos dados apresentaram desafios significativos, impedindo a construção de um modelo de classificação eficaz. Seria necessário uma inspeção manual dos dados ou a consulta à fonte dos dados para uma melhor compreensão da estrutura e formato esperados, permitindo uma abordagem mais informada para a limpeza e preparação dos dados. 
